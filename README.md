@@ -1,12 +1,15 @@
 # Welcome to Kasparas Aleknavičius Data Science Portfolio
 
-Repository containing portfolio of data science projects completed by me for work, academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks. 
+I am jr. Data Analyst with strong medical, research and project management backgroud. 
+
+This is  my repository containing portfolio of data science projects completed by me for work, academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks. 
+
+To know more about my career you can contact me on [LinkedIn:](https://www.linkedin.com/in/kasparas-aleknavicius/)
+I am always open for new experiences and professional cooperation.
 
 ## Contents
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+### - Machine Learning
 
 ## Describe your project
 
