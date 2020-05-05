@@ -9,7 +9,7 @@ I am always open for new experiences and professional cooperation.
 
 ## Contents
 
-### - Machine Learning
+### *Machine Learning
 
 ## Describe your project
 
