@@ -1,6 +1,6 @@
-# Welcome to Kasparas Aleknavičius Data Science Portfolio
+# Kasparas Aleknavičius Data Science Portfolio
 
-I am jr. Data Analyst with strong medical, research and project management backgroud. 
+I am jr. Data Analyst with strong medical, research and project management background. 
 
 This is  my repository containing portfolio of data science projects completed by me for work, academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks. 
 
@@ -9,8 +9,15 @@ I am always open for new experiences and professional cooperation.
 
 ## Contents
 
-* ### Machine Learning
-
+* ### Machine Learning:
+  * Item
+  * Item
+* ### Data Analysis and Visualisation:
+  * Item
+  * Item
+* ### Micro Projects:
+  * Item
+  * Item
 ## Describe your project
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
