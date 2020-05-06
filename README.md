@@ -16,5 +16,5 @@ I am always open for new experiences and professional cooperation.
   * Soon
   * Soon
 * ### Micro Projects:
-  * Soon
+  * [Next Big app](https://github.com/kankius/kasparas/blob/master/micro_projects/app_store.ipynb) This is small data analysis project to draw conclusions about what next successful app should be. 
   * Soon
