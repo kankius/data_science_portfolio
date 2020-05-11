@@ -16,3 +16,4 @@ I am always open for new experiences and professional cooperation.
   * [Next Big app](https://github.com/kankius/kasparas/blob/master/micro_projects/app_store.ipynb) This is small data analysis project to draw conclusions about what next successful app should be. 
   * [Next successful post](https://github.com/kankius/kasparas/blob/master/micro_projects/Hacker_news_Kasparas_A.ipynb) Data analysis project to conclude the features of the successful HackerNews forum post
   * [Cacao Flavours](https://github.com/kankius/kasparas/blob/master/micro_projects/cacao_flavors_analysis.ipynb) Fun analysis for learning purposes. 
+  * [eBay car sales](https://github.com/kankius/kasparas/blob/master/micro_projects/ebay_used_cars.ipynb) Data cleaning, aggregation for learning purposes
